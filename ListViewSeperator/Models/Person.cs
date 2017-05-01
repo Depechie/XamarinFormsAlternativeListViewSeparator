@@ -1,5 +1,5 @@
 ﻿using System;
-namespace ListViewSeperator.Models
+namespace ListViewSeparator.Models
 {
     public class Person
     {

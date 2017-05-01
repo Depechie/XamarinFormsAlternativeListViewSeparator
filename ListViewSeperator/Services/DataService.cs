@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using ListViewSeperator.Models;
+using ListViewSeparator.Models;
 
-namespace ListViewSeperator.Services
+namespace ListViewSeparator.Services
 {
     public static class DataService
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace ListViewSeperator.iOS
+namespace ListViewSeparator.iOS
 {
     public class Application
     {

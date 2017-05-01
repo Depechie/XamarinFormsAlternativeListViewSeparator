@@ -1,11 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewSeperator", "ListViewSeperator\ListViewSeperator.csproj", "{74AED022-71F7-4E06-ADDA-8E7952AB0907}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewSeparator", "ListViewSeperator\ListViewSeparator.csproj", "{74AED022-71F7-4E06-ADDA-8E7952AB0907}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewSeperator.iOS", "iOS\ListViewSeperator.iOS.csproj", "{10480BD2-FBA5-4A58-99F3-AF39229554A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewSeparator.iOS", "iOS\ListViewSeparator.iOS.csproj", "{10480BD2-FBA5-4A58-99F3-AF39229554A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewSeperator.Droid", "Droid\ListViewSeperator.Droid.csproj", "{2D40D98E-EEC1-4CD8-B20F-DB01E55D30DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListViewSeparator.Droid", "Droid\ListViewSeparator.Droid.csproj", "{2D40D98E-EEC1-4CD8-B20F-DB01E55D30DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

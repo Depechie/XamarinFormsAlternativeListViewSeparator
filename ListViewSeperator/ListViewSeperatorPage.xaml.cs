@@ -1,11 +1,11 @@
 ﻿using System.Collections.ObjectModel;
-using ListViewSeperator.Models;
-using ListViewSeperator.Services;
+using ListViewSeparator.Models;
+using ListViewSeparator.Services;
 using Xamarin.Forms;
 
-namespace ListViewSeperator
+namespace ListViewSeparator
 {
-    public partial class ListViewSeperatorPage : ContentPage
+    public partial class ListViewSeparatorPage : ContentPage
     {
         private ObservableCollection<Person> _persons;
         public ObservableCollection<Person> Persons
@@ -18,7 +18,7 @@ namespace ListViewSeperator
             }
         }
 
-        public ListViewSeperatorPage()
+        public ListViewSeparatorPage()
         {
             InitializeComponent();
             BindingContext = this;

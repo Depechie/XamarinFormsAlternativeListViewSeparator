@@ -1,6 +1,6 @@
-﻿using Xamarin.Forms;
+using Xamarin.Forms;
 
-namespace ListViewSeperator
+namespace ListViewSeparator
 {
     public partial class App : Application
     {
@@ -8,7 +8,7 @@ namespace ListViewSeperator
         {
             InitializeComponent();
 
-            MainPage = new ListViewSeperatorPage();
+            MainPage = new ListViewSeparatorPage();
         }
 
         protected override void OnStart()
